@@ -1,5 +1,30 @@
-# Welcome to GitHub Desktop!
+<h1 align="center">Bixby button remap</h1>
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+<div align="center">
+  <!-- Version -->
+    <img src="https://img.shields.io/badge/Version-v1.3-blue.svg?longCache=true&style=popout-square"
+      alt="Version" />
+  <!-- Last Updated -->
+    <img src="https://img.shields.io/badge/Updated-June 10, 2022-green.svg?longCache=true&style=flat-square"
+      alt="_time_stamp_" />
+  <!-- Min Magisk -->
+    <img src="https://img.shields.io/badge/MinMagisk-20.4-red.svg?longCache=true&style=flat-square"
+      alt="_time_stamp_" /></div>
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+<div align="center">
+  <strong>This Module changes the Bixby button funktion on every start for Lineage based Roms. 
+</div>
+
+### Note
+This Module was made fast and updates won't realy be pushed out. I'm also not responsible of any bricked or broken device/sd card.
+Use it on your own risk.
+
+Tis Module changes the keyfunction to MEDIA_PLAY_PAUSE.
+If you want to use your Voice Assistant, there is a secon Module from me which exactly changes the keyfunction to VOICE_ASSIST.
+
+also restart your phone after it turned on the first time after an update cause the Keys file is getting changed after the system loaded it.
+
+### Usage
+download the file and flash it with magisk.
+restart your phone.
+done.
