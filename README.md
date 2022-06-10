@@ -22,7 +22,7 @@ I only tested it on the Samsung galaxy S8 but it should work for every Galaxy ph
 This Module was made fast and updates won't realy be pushed out. I'm also not responsible of any bricked or broken device or sd cards.
 Use it on your own risk!
 
-Tis Module changes the keyfunction to MEDIA_PLAY_PAUSE.
+This Module changes the keyfunction to MEDIA_PLAY_PAUSE.
 If you want to use your Voice Assistant, there is a secon Module from me which exactly changes the keyfunction to VOICE_ASSIST.
 
 also restart your phone after it turned on the first time after an update cause the Keys file is getting changed after the system loaded it.
