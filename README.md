@@ -15,9 +15,12 @@
   <strong>This Module changes the Bixby button funktion on every start for Lineage based Roms. 
 </div>
 
+### Devices
+I only tested it on the Samsung galaxy S8 but it should work for every Galaxy phone with a bixby button and a Lineage based ROM
+
 ### Note
-This Module was made fast and updates won't realy be pushed out. I'm also not responsible of any bricked or broken device/sd card.
-Use it on your own risk.
+This Module was made fast and updates won't realy be pushed out. I'm also not responsible of any bricked or broken device or sd cards.
+Use it on your own risk!
 
 Tis Module changes the keyfunction to MEDIA_PLAY_PAUSE.
 If you want to use your Voice Assistant, there is a secon Module from me which exactly changes the keyfunction to VOICE_ASSIST.
