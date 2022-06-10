@@ -23,7 +23,7 @@ This Module was made fast and updates won't realy be pushed out. I'm also not re
 Use it on your own risk!
 
 This Module changes the keyfunction to MEDIA_PLAY_PAUSE.
-If you want to use your Voice Assistant, there is a secon Module from me which exactly changes the keyfunction to VOICE_ASSIST.
+If you want to use your Voice Assistant, there is ###a second Module from me which exactly changes the keyfunction to VOICE_ASSIST.
 
 also restart your phone after it turned on the first time after an update cause the Keys file is getting changed after the system loaded it.
 
